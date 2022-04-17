@@ -1,0 +1,14 @@
+.list-group-item:last-child {
+  margin-block: 10px;
+  -webkit-box-shadow: -1px 11px 16px 4px rgba(66, 68, 90, 1);
+  -moz-box-shadow: -1px 11px 16px 4px rgba(66, 68, 90, 1);
+  box-shadow: -1px 11px 16px 4px rgba(66, 68, 90, 1);
+}
+
+.loader {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  width: 4rem !important;
+  height: 4rem !important;
+}
